@@ -20,7 +20,7 @@ public class sample2 {
 	driver.findElement(By.id("a2")).click();
 	Thread.sleep(2000);
 	driver.quit();
-	
+	//end of test case
 
 	}
 
