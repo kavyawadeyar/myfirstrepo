@@ -11,6 +11,7 @@ public class sample2 {
 	public static void main(String[] args) throws InterruptedException 
 	
 	{
+		// welcome to selenium application
 	WebDriverManager.chromedriver().setup();
 	WebDriver driver=new ChromeDriver();
 	driver.manage().window().maximize();
